@@ -1,0 +1,199 @@
+userId,title,price,quantity,amount,firstName,lastName,age,gender,email,city,state,date
+33,Charger SXT RWD,32999.99,3,98999.97,Carter,Baker,32,male,carter.baker@x.dummyjson.com,Denver,Oregon,2024-10-24
+33,Apple MacBook Pro 14 Inch Space Grey,1999.99,2,3999.98,Carter,Baker,32,male,carter.baker@x.dummyjson.com,Denver,Oregon,2023-09-22
+33,Green Oval Earring,24.99,5,124.95,Carter,Baker,32,male,carter.baker@x.dummyjson.com,Denver,Oregon,2024-10-09
+33,Apple Airpods,129.99,5,649.95,Carter,Baker,32,male,carter.baker@x.dummyjson.com,Denver,Oregon,2024-09-13
+142,Cricket Helmet,44.99,4,179.96,Aria,Parker,28,female,aria.parker@x.dummyjson.com,Phoenix,Alabama,2023-06-01
+142,iPhone X,899.99,4,3599.96,Aria,Parker,28,female,aria.parker@x.dummyjson.com,Phoenix,Alabama,2024-09-05
+142,Golf Ball,9.99,4,39.96,Aria,Parker,28,female,aria.parker@x.dummyjson.com,Phoenix,Alabama,2024-09-16
+142,iPhone 6,299.99,3,899.97,Aria,Parker,28,female,aria.parker@x.dummyjson.com,Phoenix,Alabama,2024-01-25
+142,Selfie Lamp with iPhone,14.99,5,74.95,Aria,Parker,28,female,aria.parker@x.dummyjson.com,Phoenix,Alabama,2024-05-01
+108,Rolex Submariner Watch,13999.99,1,13999.99,James,Garcia,46,male,james.garcia@x.dummyjson.com,Washington,Maryland,2024-01-31
+108,Oppo A57,249.99,5,1249.95,James,Garcia,46,male,james.garcia@x.dummyjson.com,Washington,Maryland,2023-06-29
+108,Egg Slicer,6.99,2,13.98,James,Garcia,46,male,james.garcia@x.dummyjson.com,Washington,Maryland,2023-08-27
+108,Ice Cube Tray,5.99,2,11.98,James,Garcia,46,male,james.garcia@x.dummyjson.com,Washington,Maryland,2024-08-15
+108,Samsung Galaxy S8,499.99,3,1499.97,James,Garcia,46,male,james.garcia@x.dummyjson.com,Washington,Maryland,2023-06-26
+87,Golden Shoes Woman,49.99,5,249.95,Hunter,Gordon,34,male,hunter.gordon@x.dummyjson.com,Charlotte,Florida,2023-10-02
+87,Strawberry,3.99,5,19.95,Hunter,Gordon,34,male,hunter.gordon@x.dummyjson.com,Charlotte,Florida,2024-05-22
+87,Green and Black Glasses,34.99,5,174.95,Hunter,Gordon,34,male,hunter.gordon@x.dummyjson.com,Charlotte,Florida,2023-08-06
+87,Ice Cube Tray,5.99,2,11.98,Hunter,Gordon,34,male,hunter.gordon@x.dummyjson.com,Charlotte,Florida,2023-11-20
+134,iPhone 12 Silicone Case with MagSafe Plum,29.99,2,59.98,Nora,Russell,25,female,nora.russell@x.dummyjson.com,Charlotte,West Virginia,2023-02-06
+134,Baseball Ball,8.99,5,44.95,Nora,Russell,25,female,nora.russell@x.dummyjson.com,Charlotte,West Virginia,2023-12-16
+134,Party Glasses,19.99,2,39.98,Nora,Russell,25,female,nora.russell@x.dummyjson.com,Charlotte,West Virginia,2023-09-17
+134,Dior J'adore,89.99,3,269.97,Nora,Russell,25,female,nora.russell@x.dummyjson.com,Charlotte,West Virginia,2023-03-08
+134,Huawei Matebook X Pro,1399.99,5,6999.95,Nora,Russell,25,female,nora.russell@x.dummyjson.com,Charlotte,West Virginia,2024-12-06
+134,Ice Cream,5.49,3,16.47,Nora,Russell,25,female,nora.russell@x.dummyjson.com,Charlotte,West Virginia,2024-12-28
+150,Blue Women's Handbag,49.99,5,249.95,Stella,Morris,40,female,stella.morris@x.dummyjson.com,San Diego,Rhode Island,2024-03-28
+150,TV Studio Camera Pedestal,499.99,3,1499.97,Stella,Morris,40,female,stella.morris@x.dummyjson.com,San Diego,Rhode Island,2023-07-17
+150,Rolex Datejust,10999.99,3,32999.97,Stella,Morris,40,female,stella.morris@x.dummyjson.com,San Diego,Rhode Island,2023-01-11
+150,Realme C35,149.99,3,449.97,Stella,Morris,40,female,stella.morris@x.dummyjson.com,San Diego,Rhode Island,2023-11-11
+86,300 Touring,28999.99,5,144999.95,Nora,Mills,27,female,nora.mills@x.dummyjson.com,San Jose,Kansas,2024-05-13
+86,Selfie Stick Monopod,12.99,4,51.96,Nora,Mills,27,female,nora.mills@x.dummyjson.com,San Jose,Kansas,2023-10-14
+86,Realme X,299.99,2,599.98,Nora,Mills,27,female,nora.mills@x.dummyjson.com,San Jose,Kansas,2024-09-20
+23,Sportbike Motorcycle,7499.99,2,14999.98,Chloe,Morales,40,female,chloe.morales@x.dummyjson.com,Dallas,New Jersey,2024-11-17
+23,Cat Food,8.99,4,35.96,Chloe,Morales,40,female,chloe.morales@x.dummyjson.com,Dallas,New Jersey,2024-06-07
+23,Apple MagSafe Battery Pack,99.99,5,499.95,Chloe,Morales,40,female,chloe.morales@x.dummyjson.com,Dallas,New Jersey,2023-06-04
+23,Calvin Klein CK One,49.99,3,149.97,Chloe,Morales,40,female,chloe.morales@x.dummyjson.com,Dallas,New Jersey,2024-04-29
+194,Corset Leather With Skirt,89.99,2,179.98,Brayden,Hill,46,male,brayden.hill@x.dummyjson.com,Austin,Massachusetts,2023-01-20
+194,Rolex Cellini Moonphase,15999.99,4,63999.96,Brayden,Hill,46,male,brayden.hill@x.dummyjson.com,Austin,Massachusetts,2024-02-08
+194,Table Lamp,49.99,2,99.98,Brayden,Hill,46,male,brayden.hill@x.dummyjson.com,Austin,Massachusetts,2024-01-24
+194,Vivo S1,249.99,5,1249.95,Brayden,Hill,46,male,brayden.hill@x.dummyjson.com,Austin,Massachusetts,2023-08-22
+160,IWC Ingenieur Automatic Steel,4999.99,5,24999.95,Claire,Foster,30,female,claire.foster@x.dummyjson.com,San Jose,Massachusetts,2024-03-25
+160,Longines Master Collection,1499.99,3,4499.97,Claire,Foster,30,female,claire.foster@x.dummyjson.com,San Jose,Massachusetts,2023-04-18
+172,Nike Air Jordan 1 Red And Black,149.99,1,149.99,Ariana,Ross,37,female,ariana.ross@x.dummyjson.com,Chicago,West Virginia,2023-11-22
+172,Milk,3.49,3,10.47,Ariana,Ross,37,female,ariana.ross@x.dummyjson.com,Chicago,West Virginia,2024-01-28
+172,Spoon,4.99,3,14.97,Ariana,Ross,37,female,ariana.ross@x.dummyjson.com,Chicago,West Virginia,2023-11-23
+172,Cricket Wicket,29.99,3,89.97,Ariana,Ross,37,female,ariana.ross@x.dummyjson.com,Chicago,West Virginia,2024-07-24
+172,Green Chili Pepper,0.99,3,2.97,Ariana,Ross,37,female,ariana.ross@x.dummyjson.com,Chicago,West Virginia,2023-04-13
+172,Oppo K1,299.99,1,299.99,Ariana,Ross,37,female,ariana.ross@x.dummyjson.com,Chicago,West Virginia,2023-06-12
+202,Kitchen Sieve,7.99,4,31.96,Caleb,Nelson,37,male,caleb.nelson@x.dummyjson.com,Philadelphia,North Dakota,2024-12-06
+202,Marni Red & Black Suit,179.99,5,899.95,Caleb,Nelson,37,male,caleb.nelson@x.dummyjson.com,Philadelphia,North Dakota,2023-09-06
+41,Man Plaid Shirt,34.99,2,69.98,Evan,Reed,33,male,evan.reed@x.dummyjson.com,San Antonio,North Carolina,2023-08-27
+41,Monopod,19.99,3,59.97,Evan,Reed,33,male,evan.reed@x.dummyjson.com,San Antonio,North Carolina,2023-10-01
+41,Samsung Galaxy Tab S8 Plus Grey,599.99,1,599.99,Evan,Reed,33,male,evan.reed@x.dummyjson.com,San Antonio,North Carolina,2024-03-22
+41,Girl Summer Dress,19.99,3,59.97,Evan,Reed,33,male,evan.reed@x.dummyjson.com,San Antonio,North Carolina,2023-02-07
+41,Lemon,0.79,4,3.16,Evan,Reed,33,male,evan.reed@x.dummyjson.com,San Antonio,North Carolina,2023-07-01
+94,Sports Sneakers Off White Red,109.99,3,329.97,Ruby,Andrews,29,female,ruby.andrews@x.dummyjson.com,Dallas,Texas,2024-09-09
+94,Citrus Squeezer Yellow,8.99,5,44.95,Ruby,Andrews,29,female,ruby.andrews@x.dummyjson.com,Dallas,Texas,2023-02-07
+94,Wooden Rolling Pin,11.99,1,11.99,Ruby,Andrews,29,female,ruby.andrews@x.dummyjson.com,Dallas,Texas,2023-12-23
+94,Family Tree Photo Frame,29.99,5,149.95,Ruby,Andrews,29,female,ruby.andrews@x.dummyjson.com,Dallas,Texas,2023-01-28
+94,Mug Tree Stand,15.99,3,47.97,Ruby,Andrews,29,female,ruby.andrews@x.dummyjson.com,Dallas,Texas,2023-03-10
+94,Apple,1.99,1,1.99,Ruby,Andrews,29,female,ruby.andrews@x.dummyjson.com,Dallas,Texas,2023-02-03
+11,Annibale Colombo Bed,1899.99,5,9499.95,Liam,Garcia,30,male,liam.garcia@x.dummyjson.com,Denver,South Dakota,2023-11-18
+11,Samsung Galaxy S10,699.99,3,2099.97,Liam,Garcia,30,male,liam.garcia@x.dummyjson.com,Denver,South Dakota,2023-11-05
+11,Selfie Stick Monopod,12.99,3,38.97,Liam,Garcia,30,male,liam.garcia@x.dummyjson.com,Denver,South Dakota,2024-08-18
+11,Blue Frock,29.99,3,89.97,Liam,Garcia,30,male,liam.garcia@x.dummyjson.com,Denver,South Dakota,2023-01-11
+11,Kiwi,2.49,5,12.45,Liam,Garcia,30,male,liam.garcia@x.dummyjson.com,Denver,South Dakota,2024-12-31
+200,Chicken Meat,9.99,2,19.98,Adrian,Flores,44,male,adrian.flores@x.dummyjson.com,New York,Delaware,2023-05-04
+200,Tennis Racket,49.99,3,149.97,Adrian,Flores,44,male,adrian.flores@x.dummyjson.com,New York,Delaware,2023-07-20
+200,Potatoes,2.29,1,2.29,Adrian,Flores,44,male,adrian.flores@x.dummyjson.com,New York,Delaware,2024-01-06
+141,Essence Mascara Lash Princess,9.99,2,19.98,Owen,Sullivan,44,male,owen.sullivan@x.dummyjson.com,Charlotte,Mississippi,2024-05-20
+141,Grater Black,10.99,3,32.97,Owen,Sullivan,44,male,owen.sullivan@x.dummyjson.com,Charlotte,Mississippi,2023-01-15
+141,Spoon,4.99,4,19.96,Owen,Sullivan,44,male,owen.sullivan@x.dummyjson.com,Charlotte,Mississippi,2023-12-28
+141,Family Tree Photo Frame,29.99,4,119.96,Owen,Sullivan,44,male,owen.sullivan@x.dummyjson.com,Charlotte,Mississippi,2024-10-19
+189,Oppo K1,299.99,4,1199.96,Tristan,Scott,31,male,tristan.scott@x.dummyjson.com,San Diego,Arkansas,2023-11-16
+189,Fish Steak,14.99,3,44.97,Tristan,Scott,31,male,tristan.scott@x.dummyjson.com,San Diego,Arkansas,2023-08-26
+189,Cooking Oil,4.99,5,24.95,Tristan,Scott,31,male,tristan.scott@x.dummyjson.com,San Diego,Arkansas,2024-08-09
+189,Black Sun Glasses,29.99,3,89.97,Tristan,Scott,31,male,tristan.scott@x.dummyjson.com,San Diego,Arkansas,2024-06-18
+189,Family Tree Photo Frame,29.99,2,59.98,Tristan,Scott,31,male,tristan.scott@x.dummyjson.com,San Diego,Arkansas,2023-07-25
+189,Red Nail Polish,8.99,5,44.95,Tristan,Scott,31,male,tristan.scott@x.dummyjson.com,San Diego,Arkansas,2024-02-29
+59,Golden Shoes Woman,49.99,3,149.97,Ethan,Fletcher,34,male,ethan.fletcher@x.dummyjson.com,Dallas,Arkansas,2024-10-28
+59,Volleyball,11.99,5,59.95,Ethan,Fletcher,34,male,ethan.fletcher@x.dummyjson.com,Dallas,Arkansas,2024-02-27
+59,Nescafe Coffee,7.99,3,23.97,Ethan,Fletcher,34,male,ethan.fletcher@x.dummyjson.com,Dallas,Arkansas,2023-07-05
+59,Realme XT,349.99,2,699.98,Ethan,Fletcher,34,male,ethan.fletcher@x.dummyjson.com,Dallas,Arkansas,2024-07-24
+90,Beats Flex Wireless Earphones,49.99,1,49.99,Scarlett,Bowman,28,female,scarlett.bowman@x.dummyjson.com,New York,New Jersey,2023-06-25
+90,Watch Gold for Women,799.99,3,2399.97,Scarlett,Bowman,28,female,scarlett.bowman@x.dummyjson.com,New York,New Jersey,2023-09-18
+90,Apple Airpods,129.99,3,389.97,Scarlett,Bowman,28,female,scarlett.bowman@x.dummyjson.com,New York,New Jersey,2023-08-11
+90,Puma Future Rider Trainers,89.99,5,449.95,Scarlett,Bowman,28,female,scarlett.bowman@x.dummyjson.com,New York,New Jersey,2023-02-22
+90,Attitude Super Leaves Hand Soap,8.99,5,44.95,Scarlett,Bowman,28,female,scarlett.bowman@x.dummyjson.com,New York,New Jersey,2023-10-01
+90,Tartan Dress,39.99,5,199.95,Scarlett,Bowman,28,female,scarlett.bowman@x.dummyjson.com,New York,New Jersey,2024-05-23
+42,Yellow Peeler,5.99,2,11.98,Avery,Carter,29,female,avery.carter@x.dummyjson.com,San Diego,West Virginia,2023-09-17
+42,Sports Sneakers Off White & Red,119.99,2,239.98,Avery,Carter,29,female,avery.carter@x.dummyjson.com,San Diego,West Virginia,2023-07-19
+140,Spice Rack,19.99,5,99.95,Hannah,Howard,36,female,hannah.howard@x.dummyjson.com,Indianapolis,Indiana,2023-04-12
+140,Eyeshadow Palette with Mirror,19.99,2,39.98,Hannah,Howard,36,female,hannah.howard@x.dummyjson.com,Indianapolis,Indiana,2024-08-09
+140,Plate,3.99,2,7.98,Hannah,Howard,36,female,hannah.howard@x.dummyjson.com,Indianapolis,Indiana,2023-04-27
+140,Classic Sun Glasses,24.99,3,74.97,Hannah,Howard,36,female,hannah.howard@x.dummyjson.com,Indianapolis,Indiana,2024-01-15
+147,New DELL XPS 13 9300 Laptop,1499.99,5,7499.95,Henry,Turner,45,male,henry.turner@x.dummyjson.com,Philadelphia,Ohio,2024-02-29
+147,Blue Women's Handbag,49.99,4,199.96,Henry,Turner,45,male,henry.turner@x.dummyjson.com,Philadelphia,Ohio,2024-12-17
+147,Tissue Paper Box,2.49,2,4.98,Henry,Turner,45,male,henry.turner@x.dummyjson.com,Philadelphia,Ohio,2023-02-06
+147,Red Onions,1.99,4,7.96,Henry,Turner,45,male,henry.turner@x.dummyjson.com,Philadelphia,Ohio,2023-05-25
+147,Baseball Ball,8.99,5,44.95,Henry,Turner,45,male,henry.turner@x.dummyjson.com,Philadelphia,Ohio,2023-05-25
+6,iPhone 12 Silicone Case with MagSafe Plum,29.99,5,149.95,Olivia,Wilson,23,female,olivia.wilson@x.dummyjson.com,Fort Worth,Tennessee,2023-03-10
+6,Vivo S1,249.99,4,999.96,Olivia,Wilson,23,female,olivia.wilson@x.dummyjson.com,Fort Worth,Tennessee,2024-03-11
+6,Prada Women Bag,599.99,1,599.99,Olivia,Wilson,23,female,olivia.wilson@x.dummyjson.com,Fort Worth,Tennessee,2023-01-10
+118,Red Lipstick,12.99,1,12.99,Benjamin,Wilson,31,male,benjamin.wilson@x.dummyjson.com,Philadelphia,New Hampshire,2023-03-21
+118,Oppo F19 Pro+,399.99,1,399.99,Benjamin,Wilson,31,male,benjamin.wilson@x.dummyjson.com,Philadelphia,New Hampshire,2023-07-19
+66,Red Onions,1.99,5,9.95,Aria,Ferguson,28,female,aria.ferguson@x.dummyjson.com,San Diego,Wyoming,2024-05-15
+66,Realme C35,149.99,3,449.97,Aria,Ferguson,28,female,aria.ferguson@x.dummyjson.com,San Diego,Wyoming,2024-05-18
+75,Mulberry,4.99,1,4.99,Ryan,Graham,32,male,ryan.graham@x.dummyjson.com,San Antonio,Tennessee,2024-01-15
+75,Selfie Lamp with iPhone,14.99,2,29.98,Ryan,Graham,32,male,ryan.graham@x.dummyjson.com,San Antonio,Tennessee,2023-01-05
+75,Apple,1.99,3,5.97,Ryan,Graham,32,male,ryan.graham@x.dummyjson.com,San Antonio,Tennessee,2023-12-17
+75,Blue & Black Check Shirt,29.99,5,149.95,Ryan,Graham,32,male,ryan.graham@x.dummyjson.com,San Antonio,Tennessee,2024-04-05
+147,Essence Mascara Lash Princess,9.99,5,49.95,Henry,Turner,45,male,henry.turner@x.dummyjson.com,Philadelphia,Ohio,2024-07-07
+147,Basketball Rim,39.99,4,159.96,Henry,Turner,45,male,henry.turner@x.dummyjson.com,Philadelphia,Ohio,2024-12-02
+170,Huawei Matebook X Pro,1399.99,2,2799.98,Penelope,King,34,female,penelope.king@x.dummyjson.com,Los Angeles,New Hampshire,2023-12-04
+170,Beats Flex Wireless Earphones,49.99,4,199.96,Penelope,King,34,female,penelope.king@x.dummyjson.com,Los Angeles,New Hampshire,2023-03-09
+170,Green Bell Pepper,1.29,2,2.58,Penelope,King,34,female,penelope.king@x.dummyjson.com,Los Angeles,New Hampshire,2023-09-13
+170,iPhone 5s,199.99,4,799.96,Penelope,King,34,female,penelope.king@x.dummyjson.com,Los Angeles,New Hampshire,2024-04-22
+170,Volleyball,11.99,5,59.95,Penelope,King,34,female,penelope.king@x.dummyjson.com,Los Angeles,New Hampshire,2024-06-28
+177,Marni Red & Black Suit,179.99,1,179.99,Xavier,Wright,38,male,xavier.wright@x.dummyjson.com,Jacksonville,Maryland,2024-08-19
+177,Pacifica Touring,31999.99,4,127999.96,Xavier,Wright,38,male,xavier.wright@x.dummyjson.com,Jacksonville,Maryland,2024-05-23
+177,Potatoes,2.29,4,9.16,Xavier,Wright,38,male,xavier.wright@x.dummyjson.com,Jacksonville,Maryland,2023-11-10
+177,Plant Pot,14.99,4,59.96,Xavier,Wright,38,male,xavier.wright@x.dummyjson.com,Jacksonville,Maryland,2024-05-12
+143,Tissue Paper Box,2.49,4,9.96,Grayson,Coleman,31,male,grayson.coleman@x.dummyjson.com,San Francisco,Illinois,2024-11-29
+143,Gucci Bloom Eau de,79.99,3,239.97,Grayson,Coleman,31,male,grayson.coleman@x.dummyjson.com,San Francisco,Illinois,2024-07-06
+143,iPhone X,899.99,3,2699.97,Grayson,Coleman,31,male,grayson.coleman@x.dummyjson.com,San Francisco,Illinois,2024-10-29
+143,Samsung Galaxy Tab S8 Plus Grey,599.99,3,1799.97,Grayson,Coleman,31,male,grayson.coleman@x.dummyjson.com,San Francisco,Illinois,2023-06-14
+164,Vivo S1,249.99,2,499.98,Addison,Ward,30,female,addison.ward@x.dummyjson.com,San Francisco,South Carolina,2024-07-19
+164,Rolex Datejust,10999.99,5,54999.95,Addison,Ward,30,female,addison.ward@x.dummyjson.com,San Francisco,South Carolina,2023-02-26
+164,IWC Ingenieur Automatic Steel,4999.99,2,9999.98,Addison,Ward,30,female,addison.ward@x.dummyjson.com,San Francisco,South Carolina,2023-06-03
+164,Cooking Oil,4.99,4,19.96,Addison,Ward,30,female,addison.ward@x.dummyjson.com,San Francisco,South Carolina,2024-09-05
+181,Apple MagSafe Battery Pack,99.99,2,199.98,Brandon,Collins,27,male,brandon.collins@x.dummyjson.com,Dallas,Delaware,2023-04-01
+181,Black Aluminium Cup,5.99,5,29.95,Brandon,Collins,27,male,brandon.collins@x.dummyjson.com,Dallas,Delaware,2024-11-12
+203,Nike Baseball Cleats,79.99,5,399.95,Nova,Cooper,32,female,nova.cooper@x.dummyjson.com,Los Angeles,Nebraska,2024-02-16
+203,Brown Leather Belt Watch,89.99,4,359.96,Nova,Cooper,32,female,nova.cooper@x.dummyjson.com,Los Angeles,Nebraska,2023-11-25
+203,Egg Slicer,6.99,3,20.97,Nova,Cooper,32,female,nova.cooper@x.dummyjson.com,Los Angeles,Nebraska,2024-11-11
+203,Fine Mesh Strainer,9.99,5,49.95,Nova,Cooper,32,female,nova.cooper@x.dummyjson.com,Los Angeles,Nebraska,2023-10-19
+153,Apple iPhone Charger,19.99,5,99.95,Christian,Perez,32,male,christian.perez@x.dummyjson.com,Chicago,Iowa,2024-01-14
+153,Citrus Squeezer Yellow,8.99,2,17.98,Christian,Perez,32,male,christian.perez@x.dummyjson.com,Chicago,Iowa,2023-11-07
+153,Tennis Racket,49.99,1,49.99,Christian,Perez,32,male,christian.perez@x.dummyjson.com,Chicago,Iowa,2023-10-04
+153,Electric Stove,49.99,5,249.95,Christian,Perez,32,male,christian.perez@x.dummyjson.com,Chicago,Iowa,2024-04-29
+176,Green Chili Pepper,0.99,1,0.99,Aaliyah,Martinez,29,female,aaliyah.martinez@x.dummyjson.com,New York,West Virginia,2024-07-08
+176,Short Frock,24.99,5,124.95,Aaliyah,Martinez,29,female,aaliyah.martinez@x.dummyjson.com,New York,West Virginia,2024-03-18
+176,Apple Watch Series 4 Gold,349.99,5,1749.95,Aaliyah,Martinez,29,female,aaliyah.martinez@x.dummyjson.com,New York,West Virginia,2024-11-29
+33,Pacifica Touring,31999.99,5,159999.95,Carter,Baker,32,male,carter.baker@x.dummyjson.com,Denver,Oregon,2023-12-18
+33,Silver Pot With Glass Cap,39.99,4,159.96,Carter,Baker,32,male,carter.baker@x.dummyjson.com,Denver,Oregon,2024-11-10
+33,Pan,24.99,4,99.96,Carter,Baker,32,male,carter.baker@x.dummyjson.com,Denver,Oregon,2024-07-09
+33,Green Crystal Earring,29.99,1,29.99,Carter,Baker,32,male,carter.baker@x.dummyjson.com,Denver,Oregon,2023-10-08
+15,Family Tree Photo Frame,29.99,5,149.95,William,Gonzalez,33,male,william.gonzalez@x.dummyjson.com,San Jose,Utah,2023-12-03
+15,Pan,24.99,3,74.97,William,Gonzalez,33,male,william.gonzalez@x.dummyjson.com,San Jose,Utah,2023-03-01
+15,Iron Golf,49.99,4,199.96,William,Gonzalez,33,male,william.gonzalez@x.dummyjson.com,San Jose,Utah,2023-05-04
+15,Baseball Glove,24.99,3,74.97,William,Gonzalez,33,male,william.gonzalez@x.dummyjson.com,San Jose,Utah,2023-01-22
+15,Metal Baseball Bat,29.99,2,59.98,William,Gonzalez,33,male,william.gonzalez@x.dummyjson.com,San Jose,Utah,2024-02-25
+15,Samsung Galaxy S10,699.99,4,2799.96,William,Gonzalez,33,male,william.gonzalez@x.dummyjson.com,San Jose,Utah,2024-01-20
+81,Corset With Black Skirt,79.99,3,239.97,Austin,Hudson,30,male,austin.hudson@x.dummyjson.com,Los Angeles,Maryland,2024-06-23
+81,Soft Drinks,1.99,1,1.99,Austin,Hudson,30,male,austin.hudson@x.dummyjson.com,Los Angeles,Maryland,2023-01-19
+81,Cricket Bat,29.99,1,29.99,Austin,Hudson,30,male,austin.hudson@x.dummyjson.com,Los Angeles,Maryland,2024-05-28
+81,Cat Food,8.99,4,35.96,Austin,Hudson,30,male,austin.hudson@x.dummyjson.com,Los Angeles,Maryland,2024-05-26
+81,Sunglasses,22.99,3,68.97,Austin,Hudson,30,male,austin.hudson@x.dummyjson.com,Los Angeles,Maryland,2023-08-05
+81,Rolex Datejust,10999.99,4,43999.96,Austin,Hudson,30,male,austin.hudson@x.dummyjson.com,Los Angeles,Maryland,2023-04-03
+187,Baseball Ball,8.99,1,8.99,Zachary,Lee,37,male,zachary.lee@x.dummyjson.com,Dallas,Alabama,2024-03-24
+187,Boxed Blender,39.99,2,79.98,Zachary,Lee,37,male,zachary.lee@x.dummyjson.com,Dallas,Alabama,2023-03-13
+187,Apple AirPods Max Silver,549.99,4,2199.96,Zachary,Lee,37,male,zachary.lee@x.dummyjson.com,Dallas,Alabama,2024-12-12
+187,Volleyball,11.99,3,35.97,Zachary,Lee,37,male,zachary.lee@x.dummyjson.com,Dallas,Alabama,2024-11-19
+187,Gray Dress,34.99,5,174.95,Zachary,Lee,37,male,zachary.lee@x.dummyjson.com,Dallas,Alabama,2024-06-01
+187,Pacifica Touring,31999.99,3,95999.97,Zachary,Lee,37,male,zachary.lee@x.dummyjson.com,Dallas,Alabama,2024-02-09
+184,Green Bell Pepper,1.29,4,5.16,Natalie,Price,29,female,natalie.price@x.dummyjson.com,Washington,Maryland,2024-12-27
+184,Black Whisk,9.99,1,9.99,Natalie,Price,29,female,natalie.price@x.dummyjson.com,Washington,Maryland,2024-07-25
+184,Tennis Ball,6.99,4,27.96,Natalie,Price,29,female,natalie.price@x.dummyjson.com,Washington,Maryland,2023-06-07
+184,Water,0.99,1,0.99,Natalie,Price,29,female,natalie.price@x.dummyjson.com,Washington,Maryland,2024-11-04
+184,Gucci Bloom Eau de,79.99,5,399.95,Natalie,Price,29,female,natalie.price@x.dummyjson.com,Washington,Maryland,2023-05-28
+184,Apple HomePod Mini Cosmic Grey,99.99,5,499.95,Natalie,Price,29,female,natalie.price@x.dummyjson.com,Washington,Maryland,2024-07-04
+67,Generic Motorcycle,3999.99,3,11999.97,Gabriel,Hayes,35,male,gabriel.hayes@x.dummyjson.com,San Jose,Minnesota,2023-11-10
+67,Knife,14.99,4,59.96,Gabriel,Hayes,35,male,gabriel.hayes@x.dummyjson.com,San Jose,Minnesota,2024-10-01
+35,Green Crystal Earring,29.99,1,29.99,Jack,Ward,30,male,jack.ward@x.dummyjson.com,Phoenix,Idaho,2024-07-06
+35,Iron Golf,49.99,3,149.97,Jack,Ward,30,male,jack.ward@x.dummyjson.com,Phoenix,Idaho,2024-10-13
+20,Brown Leather Belt Watch,89.99,3,269.97,Jackson,Evans,35,male,jackson.evans@x.dummyjson.com,New York,Arkansas,2023-04-30
+20,Red Lipstick,12.99,2,25.98,Jackson,Evans,35,male,jackson.evans@x.dummyjson.com,New York,Arkansas,2023-11-27
+20,Basketball,14.99,5,74.95,Jackson,Evans,35,male,jackson.evans@x.dummyjson.com,New York,Arkansas,2023-07-20
+20,Blue & Black Check Shirt,29.99,3,89.97,Jackson,Evans,35,male,jackson.evans@x.dummyjson.com,New York,Arkansas,2024-08-27
+50,Black Whisk,9.99,2,19.98,Stella,Hughes,34,female,stella.hughes@x.dummyjson.com,Jacksonville,New Hampshire,2023-11-25
+50,Juice,3.99,4,15.96,Stella,Hughes,34,female,stella.hughes@x.dummyjson.com,Jacksonville,New Hampshire,2023-08-04
+50,Cricket Helmet,44.99,5,224.95,Stella,Hughes,34,female,stella.hughes@x.dummyjson.com,Jacksonville,New Hampshire,2023-11-17
+93,Asus Zenbook Pro Dual Screen Laptop,1799.99,2,3599.98,Julian,Newton,35,male,julian.newton@x.dummyjson.com,Fort Worth,Iowa,2024-11-29
+93,Plate,3.99,1,3.99,Julian,Newton,35,male,julian.newton@x.dummyjson.com,Fort Worth,Iowa,2023-05-27
+23,Sports Sneakers Off White Red,109.99,1,109.99,Chloe,Morales,40,female,chloe.morales@x.dummyjson.com,Dallas,New Jersey,2024-02-04
+23,Brown Leather Belt Watch,89.99,3,269.97,Chloe,Morales,40,female,chloe.morales@x.dummyjson.com,Dallas,New Jersey,2024-01-31
+23,Rice,5.99,4,23.96,Chloe,Morales,40,female,chloe.morales@x.dummyjson.com,Dallas,New Jersey,2023-09-21
+23,Mulberry,4.99,3,14.97,Chloe,Morales,40,female,chloe.morales@x.dummyjson.com,Dallas,New Jersey,2023-10-28
+23,Chopping Board,12.99,3,38.97,Chloe,Morales,40,female,chloe.morales@x.dummyjson.com,Dallas,New Jersey,2024-05-24
+33,Strawberry,3.99,2,7.98,Carter,Baker,32,male,carter.baker@x.dummyjson.com,Denver,Oregon,2024-12-03
+33,IWC Ingenieur Automatic Steel,4999.99,2,9999.98,Carter,Baker,32,male,carter.baker@x.dummyjson.com,Denver,Oregon,2024-12-19
+86,Wooden Bathroom Sink With Mirror,799.99,4,3199.96,Nora,Mills,27,female,nora.mills@x.dummyjson.com,San Jose,Kansas,2024-06-20
+86,Wooden Rolling Pin,11.99,3,35.97,Nora,Mills,27,female,nora.mills@x.dummyjson.com,San Jose,Kansas,2023-06-13
+86,Soft Drinks,1.99,3,5.97,Nora,Mills,27,female,nora.mills@x.dummyjson.com,San Jose,Kansas,2024-08-23
+86,Sunglasses,22.99,5,114.95,Nora,Mills,27,female,nora.mills@x.dummyjson.com,San Jose,Kansas,2023-11-26
+86,Selfie Lamp with iPhone,14.99,4,59.96,Nora,Mills,27,female,nora.mills@x.dummyjson.com,San Jose,Kansas,2024-03-12
+86,iPhone X,899.99,4,3599.96,Nora,Mills,27,female,nora.mills@x.dummyjson.com,San Jose,Kansas,2023-03-05
+52,Green Bell Pepper,1.29,1,1.29,Grace,Perry,27,female,grace.perry@x.dummyjson.com,Seattle,Pennsylvania,2024-03-11
+52,Man Plaid Shirt,34.99,1,34.99,Grace,Perry,27,female,grace.perry@x.dummyjson.com,Seattle,Pennsylvania,2023-07-24
